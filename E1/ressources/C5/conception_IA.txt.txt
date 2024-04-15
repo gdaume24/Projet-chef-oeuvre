@@ -1,0 +1,22 @@
+On possède dans le jeu de données une variable continue et plusieurs varibles catégoriques.
+Nous utiliserons la librairies scikit-learn pour développer l'IA, développement en language python et interface jupyter-notebook.
+
+Séparation des données d'entrée (réponses au questions) et des données de sortie (réponse sur la demande de traitement)
+
+Séparation en jeu d'entraînement et de test
+
+Prétraitrement des données :
+Normalisation des valeurs continues
+Conversion des variables catégoriques au format numérique "one hot"
+
+Entrainement et métriques de 6 modèles de classification :
+RandomForestClassifier
+GradientBoostingClassifier
+AdaBoostClassifier
+DecisionTreeClassifier
+KNeighborsClassifier
+LogisticRegression
+
+Choix du meilleur modèle
+Formalisation d'un pipeline 
+Enregistrement du pipeline

@@ -1,0 +1,24 @@
+On a qu'une seule entité à gérer : Le questionnaire. Pas de documents à gérer ou d'énorme volumes de données, donc BDD relationnelle. On choisit SQLite qui est simple et gratuit.
+
+
+Procédure de mise en place de la BDD analytique : 
+
+Après avoir fait le plan MCD et MLD.
+Téléchargement de SQLite
+Installation
+Ajout du chemin du dossier dans ma variable d'environnement PATH
+Test de lancement de l'application dans le terminal
+
+Création d'une database SQLite en python :
+con = sqlite3.connect("db.db")
+
+Import du jeu de données : 
+ - Chargement du fichier csv en jeu de données
+   df = pd.read_csv("..\data\survey.csv")
+
+ - Nettoyage avec du jeu de données avec une fonction personnalisée
+   df = nettoyage_df(df)
+
+ - Import du jeu de données dans la base : 
+   df.to_sql('questionnaires', con=engine, if_exists='fail')
+

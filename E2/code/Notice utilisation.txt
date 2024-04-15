@@ -1,0 +1,6 @@
+1. Clone this repository
+2. Go to Rendus_Ecole_Simplon/PCO/reconnaissance_iris/code in your local IDE
+3. Create a venv (python -m venv venv), activate it and install the libraries from the requirements.txt in it (pip install -r requirements.txt)
+4. Import "modeles" folder from this google drive link : https://drive.google.com/drive/folders/1L_X3Qzgf5w-paKtFLcvdnXSUqcVFDtGc (the weights are too heavy for github)
+into "code" folder from this repo (from step 2)
+5. run the app.py

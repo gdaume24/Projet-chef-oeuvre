@@ -1,0 +1,9 @@
+Méthodes de suivi de projet : 
+
+- Diagramme de Gantt
+- Réunions les jeudis
+- Communication par emails et téléphone
+
+
+J'ai laissé deux semaines sur l'analyse exploratoire pour me laisser de la marge.
+Je sais que j'étais à l'aise sur le SGBD et l'entraînement du modèle donc j'ai laissé un temps plus court.

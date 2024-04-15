@@ -1,0 +1,34 @@
+Les réunions se sont déroulées les jeudis, à 14 heures, avec le Pr René Gallimard et Pr Hervé Ducroc
+
+
+Rapport 1, 29 février
+
+Présentation du fichier d'analyse exploratoire des données :
+
+		- Stratégie adoptée pour les valeurs manquantes, colonnes inutiles, lignes supprimées, simplification de la colonne "Genre".
+
+		- Graphiques de représentation des données et interprétation
+
+		- Résumé des stratégie adaptées (script python)
+
+Nous nous sommes mis d'accord sur les stratégies adoptées de nettoyage de données, nous avons exploré ensemble les résultats de l'analyse exploratoire des données.  
+
+
+Rapport 2, , 7 mars
+
+Présentation de l'entraînement du modèle et des résultats :
+
+		- Vulgarisation du machine learning
+
+		- Présentation des résultats 
+
+		- Présentation d'un test
+
+Lors de l'analyse des résultats, les professeurs ont cherché à savoir le fonctionnement interne du meilleur modèle, à savoir régression logistique, je me suis donc informé et leur ai présenté son fonctionnement.
+
+
+Rapport 3, 28 mars
+
+Présentation de l'application fonctionnelle :
+
+Nous avons vu ensemble si le produit fini était conforme aux attentes, nous avons discuté du fait d'intégrer un niveau de certitude dans les prédictions.

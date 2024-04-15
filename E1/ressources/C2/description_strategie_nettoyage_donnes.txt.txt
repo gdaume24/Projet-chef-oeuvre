@@ -1,0 +1,18 @@
+Il y avait des valeurs manquantes pour "êtes-vous travailleur indépendant ?" 
+et "si vous avez des troubles de la santé mentale, cela interfère-t-il avec votre travail ?"
+
+J'ai remplacé les valeurs manquantes du premier cas par "Other", une nouvelle étiquette, 
+en supposant que les personnes n'ayant pas répondues n'avaient pas de réelles réponses dans les catégories oui ou non.
+Les valeurs manquantes du second cas ont été remplacées par "Not concerned", 
+en supposant quand les personnes qui n'ont pas répondues n'avaient pas de troubles de la santé mentale.
+
+J'ai supprimé : - la colonne "timestamp" car elle n'a pas de définition et n'apporte rien, toutes les dates étant très proches.
+ 		- la colonne "country" et "state", car il y a en grande majorité des échantillons
+ des Etats-Unis et trop peu d'échantillons de pays européens (une dizaine de français),
+ surtout que mon application sera utilisée par des Français en priorité.
+		- la colonne "comments" car il y a énormément de valeurs manquantes.
+
+J'ai supprimé les lignes des gens qui ont mis un âge supérieur à 100 et inférieur à 0 puisqu'ils n'ont pas fait le questionnaire normalement,
+cela posait un problème pour l'analyse des données
+
+J'ai reformulé les genres en 3 catégories car il y avait énormément de dénominations, Male, Female et Other.

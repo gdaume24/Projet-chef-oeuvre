@@ -1,0 +1,2 @@
+L'application proposera un questionnaire à remplir, une fois rempli, il faudra une fonctionnalité qui utilise le modèle d'IA pour faire une prédiction à partir du questionnaire. La fonctionnalité retournera un message "besoin d'un traitement" ou non.
+

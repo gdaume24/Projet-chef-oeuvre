@@ -1,0 +1,4 @@
+Créer les tables à partir du script SQL obtenu à partir du MLD Jmerise
+Tester des insertions à distance via l'API FastAPI
+Imbriquer les insertions dans les fonctionnalités de l'API
+Tester la base sur l'application déployée

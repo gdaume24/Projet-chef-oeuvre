@@ -1,0 +1,11 @@
+1. Faire un dossier data avec train, val, test à la place des 5 photos
+
+2. Faire une fonction qui constitue les jeux d'entrainement, de validation et de test à partir de ces dossiers pour oeil_gauche, oeil_droit, et oeil_gauche_ou_droit
+
+3. Faire une fonction qui donne un apercu des photos après la data augmentation
+
+4. Entraîner les modèles en implémentant dans l'entraînement la data augmentation
+
+5. Faire un suivi écrit des modifications
+
+6. Améliorer le visuel de l'application

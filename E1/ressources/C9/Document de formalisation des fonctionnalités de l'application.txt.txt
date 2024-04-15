@@ -1,0 +1,21 @@
+Formalisation des fonctionnalités de l'application :
+
+- L'application proposera un formulaire à remplir.
+- Bouton pour activer la prédiction une fois le formulaire rempli.
+
+L'application envera ensuite une requête au back-end pour faire la prédiction du formulaire sur le modèle d'IA. Elle retournera à l'utilisateur si il a besoin de prendre un traitement ou non.
+
+Outils nécessaires à la réalisation des fonctionnalités de l'application :
+
+Fast Api
+Meilleure librairie, correspond au language python
+
+Outils nécessaires à la réalisation des interfaces :
+
+Streamlit
+Simple
+
+Méthode de gestion de projet qui sera utilisée tout au long du projet : 
+
+Diagramme de Gantt
+Réunion de bilan tous les jeudis + échange par mails ou appel

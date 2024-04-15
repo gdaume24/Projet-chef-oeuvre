@@ -1,0 +1,13 @@
+Les styles doivent respecter le style du word de l'E1
+Les titres doivent être alignés à gauche
+-> Titre 1 rouge calibri light taille 16
+-> Titre 2 violet calibri light taille 14
+-> Titre 3 verte ? dalibri light police 12 ?
+-> Police texte 11 Calibri corps
+
+
+Lien Trello :
+https://trello.com/c/hBH9wpOs/21-b3-d%C3%A9velopper-une-application-dintelligence-artificielle
+
+Lien Github :
+https://github.com/gdaume24/Rendus_Ecole_Simplon
