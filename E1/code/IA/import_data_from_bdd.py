@@ -24,3 +24,5 @@ def charger_donnees(chemin_bdd):
 
 if __name__ == "__main__":
     print(charger_donnees(bdd_path))
+
+    
