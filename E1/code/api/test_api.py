@@ -24,7 +24,8 @@ input_data_dict = {
     "mental_health_interview" : "Oui",
     "phys_health_interview" : "Oui",
     "mental_vs_physical" : "Oui",
-    "obs_consequence" : "Oui"
+    "obs_consequence" : "Oui",
+    "id_user" : 2
 }
 
 client = TestClient(app)
